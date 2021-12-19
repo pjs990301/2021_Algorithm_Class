@@ -5,7 +5,7 @@
 #include <limits.h>
 
 #define NUM_INPUT 8
-
+ 
 struct point {
     double x, y;
 };
