@@ -36,5 +36,5 @@ void main(){
     euclid(a,b);
     printf("%d %d %d\n",x,y,d);
 
-}
+} 
 
