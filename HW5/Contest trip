@@ -21,8 +21,8 @@ If a connection exists, print the two lines containing zero padded timestamps an
 use blanks to achieve the indentation. If no connection exists on the same day (i.e., arrival before midnight), print a line containing “No connection”.
 
 <Sample Input>          <Sample Output>    
-1                       Departure         0949    Seoul
-3                       Arrival 	             1411   Daejeon
+1                       Departure        0949   Seoul
+3                       Arrival 	 1411   Daejeon
 Seoul                   
 Suwon                   
 Daejeon
