@@ -22,7 +22,7 @@ use blanks to achieve the indentation. If no connection exists on the same day (
 
 <Sample Input>          <Sample Output>    
 1                       Departure         0949    Seoul
-3                       Arrival 	        1411    Daejeon
+3                       Arrival 	             1411   Daejeon
 Seoul                   
 Suwon                   
 Daejeon
@@ -38,4 +38,4 @@ Daejeon
 1411 Daejeon
 0800
 Seoul
-Daejeon
+Daejeon 
